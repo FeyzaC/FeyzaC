@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👩‍💻 I love coding, solving sudoku and books.
 - 🌱 I'm addicted to learning and growing every day.
 - 📫 How to find me:
--      🎯 LinkedIn: https://www.linkedin.com/in/g%C3%BCl-feyza-ciftci-830b54173/[]
--      🎯 Netlify: https://app.netlify.com/teams/feyzac/overview[]
--      🎯 XING: https://www.xing.com/profile/GuelFeyza_Ciftci[]
+-    🎯 LinkedIn: https://www.linkedin.com/in/g%C3%BCl-feyza-ciftci-830b54173/
+-    🎯 Netlify: https://app.netlify.com/teams/feyzac/overview
+-    🎯 XING: https://www.xing.com/profile/GuelFeyza_Ciftci
